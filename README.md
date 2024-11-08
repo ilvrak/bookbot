@@ -1,2 +1,2 @@
 # bookbot
-my first project
+place books in txt to books/ folder
